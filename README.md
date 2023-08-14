@@ -56,5 +56,5 @@ note - Always ensure to have the most recent version of the software for optimal
 
 ## Created On : 
 2023-08-12
-![Logo](https://github.com/kaushal016/Online-Resume/blob/main/QRGenie.gif)
+![Logo](https://drive.google.com/file/d/1bCX5xYB7-K5gh9cPygWr9wE9pdLLvzsC/view?usp=drive_link)
 
