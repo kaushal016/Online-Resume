@@ -51,7 +51,7 @@ Steps to Use the project:
 For support, email @kaushallohar016@gmail.com .
 
 note - Always ensure to have the most recent version of the software for optimal functionality.
-![Logo](https://github.com/kaushal016/Online-Resume/blob/main/QRGenie.gif)
+![Logo](QRGenie.gif)
 
 
 ## Created On : 
